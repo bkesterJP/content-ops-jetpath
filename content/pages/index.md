@@ -76,7 +76,7 @@ sections:
             self:
               borderRadius: x-large
       - type: FeaturedItem
-        title: New One
+        title: Concrete Sensors
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
