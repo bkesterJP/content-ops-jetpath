@@ -132,7 +132,7 @@ sections:
             justifyContent: center
             textAlign: left
       - type: FeaturedItem
-        title: Feature Item One
+        title: Above Computing
         tagline: ''
         subtitle: This is the item subtitle
         text: >+
