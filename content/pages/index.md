@@ -77,7 +77,7 @@ sections:
               borderRadius: x-large
       - type: FeaturedItem
         title: Concrete Sensors
-        subtitle: Numbers Done
+        subtitle: IoT
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
