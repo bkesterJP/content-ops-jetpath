@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: FOR DEEP TECHNOLOGISTS
+      label: DEEP TECHNOLOGY
       color: text-primary
       type: Badge
     elementId: ''
