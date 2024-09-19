@@ -49,10 +49,10 @@ sections:
       - type: FeaturedItem
         title: Above
         subtitle: Data Management
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Above offered a node code data management platform that helped
+          software product managers create functional prototypes. Acquired
+          confidentially in 2021.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
