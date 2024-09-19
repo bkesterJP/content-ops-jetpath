@@ -48,7 +48,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Above
-        subtitle: Data Management
+        subtitle: Development Tools
         text: >
           Above offered a node code data management platform that helped
           software product managers create functional prototypes. Acquired
