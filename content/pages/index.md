@@ -134,7 +134,7 @@ sections:
       - type: FeaturedItem
         title: Above Computing
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Development Tools
         text: >+
           Above offered a node code data management platform that helped
           software product managers create functional prototypes. Acquired
