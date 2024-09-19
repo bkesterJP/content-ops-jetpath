@@ -84,7 +84,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/CS.png
+          url: /images/CS2.png
           altText: Placeholder text
           elementId: ''
           styles:
