@@ -9,7 +9,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:info@jetpath.co",
             "icon": "mail",
             "type": "Social"
         }
