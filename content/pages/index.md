@@ -8,14 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
+    text: >
       We help technical founders define a market innovation path and launch with
-      advisory services, starter capital and fundraising assistance. Our focus
-      is on companies building cloud-native products that leverage real-time
-      data from machines, mobile apps, and proprietary data stores.
+      advisory services, starter capital and fundraising assistance.
 
 
-
+      Our focus is on companies building cloud-native products that leverage
+      real-time data from machines, mobile apps, and proprietary data stores.
     actions: []
     media:
       url: /images/main-hero.svg
