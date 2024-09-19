@@ -133,7 +133,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: Feature Item One
-        tagline: This is the tagline
+        tagline: ''
         subtitle: This is the item subtitle
         text: >+
           Above offered a node code data management platform that helped
