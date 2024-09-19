@@ -47,35 +47,6 @@ sections:
     subtitle: nimble startups making hard things easy
     items:
       - type: FeaturedItem
-        title: Above
-        subtitle: Development Tools
-        text: >
-          Above offered a node code data management platform that helped
-          software product managers create functional prototypes. Acquired
-          confidentially in 2021.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
-        image:
-          type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/Above.png
-          styles:
-            self:
-              borderRadius: x-large
-      - type: FeaturedItem
         title: Concrete Sensors
         subtitle: IoT
         text: >-
